@@ -1,0 +1,15 @@
+The file was pyc (python2 byte-code). 
+When executed will give the prompt to paste the code. (In terminal python <filename>.pyc )
+When de-compiled we will get the py file with restriction. 
+In the place of _ there is a alphabet missing.
+So wrote a py algorithm to get that missing algorithm. (Run tdctf.py to get the missing alphabets)
+Finally found the code as 
+
+happy_new_year_to_all_from_team_dot
+
+
+Sites used:
+
+Filetype finder: http://mark0.net/onlinetrid.html
+Python de-compiler: https://python-decompiler.com/
+
